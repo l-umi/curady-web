@@ -1,0 +1,402 @@
+[
+    {
+        "id": 0,
+        "image": "https://cdn.inflearn.com/public/courses/328723/cover/062da05a-55e9-49f1-a9ad-3e67ea079fe9/328723-eng.png",
+        "liked": "87%",
+        "keyword": "실습 위주",
+        "providers": "inflearn",
+        "lectureName": "스프링 DB 1편 - 데이터 접근 핵심 원리",
+        "lectureInstructor": "김영한",
+        "price": "₩ 61,600"
+    },
+    {
+        "id": 1,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Nzfhr_1605093622970/coverImage.png?_=1605699133324",
+        "liked": "83%",
+        "keyword": "자세한 내용",
+        "providers": "goormedu",
+        "lectureName": "스프링부트 시큐리티 특강",
+        "lectureInstructor": "메타코딩",
+        "price": "무료"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.inflearn.com/public/courses/329214/cover/0d3f339b-06de-40c3-a41a-8633df325ade/329214-eng.jpg",
+        "liked": "83%",
+        "keyword": "소통을 잘하는 강사님",
+        "providers": "inflearn",
+        "lectureName": "Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)",
+        "lectureInstructor": "Dowon Lee",
+        "price": "₩ 70,400"
+    },
+    {
+        "id": 3,
+        "image": "https://img-c.udemycdn.com/course/240x135/1061966_2b0b_2.jpg",
+        "liked": "80%",
+        "keyword": "실습 위주",
+        "providers": "udemy",
+        "lectureName": "IntelliJ Gradle로 Spring Framework 빌드하고 리팩토링하기",
+        "lectureInstructor": "Kyeongrok Kim",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 4,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_izVpG_1585707825470/coverImage.png?_=1601863046178",
+        "liked": "87%",
+        "keyword": "실습 위주",
+        "providers": "goormedu",
+        "lectureName": "[스프링 시리즈2] 만들면서 배우는 Spring MVC 5",
+        "lectureInstructor": "소프트캠퍼스",
+        "price": "₩ 88,300"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.inflearn.com/public/course-325821-cover/e5a56b04-463b-410c-9b3a-d769cd192add",
+        "liked": "83%",
+        "keyword": "자세한 내용",
+        "providers": "inflearn",
+        "lectureName": "따라하며 배우는 도커와 CI환경",
+        "lectureInstructor": "John Ahn",
+        "price": "₩ 19,360"
+    },
+    {
+        "id": 6,
+        "image": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202201/080159-472/group-2419.png",
+        "liked": "83%",
+        "keyword": "소통을 잘하는 강사님",
+        "providers": "fastcampus",
+        "lectureName": "한 번에 끝내는 Spring 완.전.판 초격차 패키지 Online.",
+        "lectureInstructor": "양세열",
+        "price": "₩ 220,000"
+    },
+    {
+        "id": 7,
+        "image": "https://cdn.inflearn.com/public/courses/324474/course_cover/58c8632c-7a6e-4c76-9893-d7fffa32faf2/kyh_JPA_Spring2%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%206.png",
+        "liked": "80%",
+        "keyword": "실습 위주",
+        "providers": "inflearn",
+        "lectureName": "실전! 스프링 데이터 JPA",
+        "lectureInstructor": "김영한",
+        "price": "₩ 70,400"
+    },
+    {
+        "id": 8,
+        "image": "https://cdn.inflearn.com/public/courses/328606/cover/b7a541f1-a587-4c1b-b333-a5969a331c84/328606-eng.png",
+        "liked": "87%",
+        "keyword": "실습 위주",
+        "providers": "inflearn",
+        "lectureName": "자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)",
+        "lectureInstructor": "최태현",
+        "price": "₩ 44,000"
+    },
+    {
+        "id": 9,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ztOUq_1569825243675/coverImage.png?_=1591076822103",
+        "liked": "83%",
+        "keyword": "자세한 내용",
+        "providers": "goormedu",
+        "lectureName": "초보자를 위한 장고 Django 뿌시기🔥",
+        "lectureInstructor": "장 성원",
+        "price": "₩ 49,000"
+    },
+    {
+        "id": 10,
+        "image": "https://cdn.inflearn.com/public/courses/327273/cover/77c59c6c-7f86-4d04-ad98-5593defbf6a6/Subscribe%20for%20more%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB%20(3).png",
+        "liked": "83%",
+        "keyword": "소통을 잘하는 강사님",
+        "providers": "inflearn",
+        "lectureName": "탄탄한 백엔드 NestJS, 기초부터 심화까지",
+        "lectureInstructor": "윤상석",
+        "price": "₩ 36,960"
+    },
+    {
+        "id": 11,
+        "image": "https://img-c.udemycdn.com/course/480x270/1389812_dd77.jpg",
+        "liked": "80%",
+        "keyword": "실습 위주",
+        "providers": "udemy",
+        "lectureName": "node.js server Tutorials(Node.js 서버 프로그래밍 과정)",
+        "lectureInstructor": "Softcampus Academy",
+        "price": "₩ 23,000"
+    },
+    {
+        "id": 12,
+        "image": "https://cdn.inflearn.com/public/courses/325969/cover/2868c757-5886-4508-a140-7cb68a83dfd8/325969-eng.png",
+        "liked": "87%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "inflearn",
+        "lectureName": "코틀린 핵심 원리 - 기본편",
+        "lectureInstructor": "김영한",
+        "price": "₩ 70,400"
+    },
+    {
+        "id": 13,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Dbetm_1610594068071/coverImage.png?_=1611728738900",
+        "liked": "83%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "goormedu",
+        "lectureName": "작정하고 django! 핀터레스트 만들기",
+        "lectureInstructor": "박형석",
+        "price": "₩ 77,000"
+    },
+    {
+        "id": 14,
+        "image": "https://cdn.inflearn.com/public/courses/327081/cover/b9374237-aa4e-468f-9557-d853f59a5733/327081-eng.jpg",
+        "liked": "83%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "inflearn",
+        "lectureName": "[리뉴얼] 타입스크립트 올인원 : Part2. 실전 분석편",
+        "lectureInstructor": "조현영",
+        "price": "₩ 40,700"
+    },
+    {
+        "id": 15,
+        "image": "https://img-c.udemycdn.com/course/480x270/4699864_c9d5.jpg",
+        "liked": "80%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "udemy",
+        "lectureName": "【한글자막】 Next.js & React - 완벽 정복 가이드 (incl. Two Paths!)",
+        "lectureInstructor": "Maximilian Schwarzmüller",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 16,
+        "image": "https://cdn.inflearn.com/public/courses/326905/cover/739f7b4b-1a9f-478f-a6a8-1a13bf58cae3/326905-eng.png",
+        "liked": "87%",
+        "keyword": "최신 강의",
+        "providers": "inflearn",
+        "lectureName": "만들고 비교하며 학습하는 리액트 (React)",
+        "lectureInstructor": "김정환",
+        "price": "₩ 44,000"
+    },
+    {
+        "id": 17,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dVZgw_1647570435027/coverImage.png?_=1648185946818",
+        "liked": "83%",
+        "keyword": "자세한 내용",
+        "providers": "goormedu",
+        "lectureName": "입문자를 위한 반응형 웹 기초 강의",
+        "lectureInstructor": "유노코딩",
+        "price": "무료"
+    },
+    {
+        "id": 18,
+        "image": "https://cdn.inflearn.com/public/courses/327946/cover/f6dd4e33-cdb7-46dd-9fa6-e2ec8ff05dc3/327946-eng.png",
+        "liked": "83%",
+        "keyword": "자세한 내용",
+        "providers": "inflearn",
+        "lectureName": "읽기 좋은 코드 작성하기 - Swift API Design Guidelines",
+        "lectureInstructor": "홍성호",
+        "price": "₩ 17,600"
+    },
+    {
+        "id": 19,
+        "image": "https://img-c.udemycdn.com/course/240x135/4597308_9549_4.jpg",
+        "liked": "80%",
+        "keyword": "최신 강의",
+        "providers": "udemy",
+        "lectureName": "누구나 따라할 수 있는 iOS 클론코딩 ( Feat . 컴공선배 라이징캠프 )",
+        "lectureInstructor": "컴공 선배",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 20,
+        "image": "https://cdn.inflearn.com/public/course-325248-cover/4495e5a6-8aaf-4567-aa77-c8a435fd8df8/apple-clone-animation-2-min.gif",
+        "liked": "87%",
+        "keyword": "실습 위주",
+        "providers": "inflearn",
+        "lectureName": "애플 웹사이트 인터랙션 클론!",
+        "lectureInstructor": "1분코딩",
+        "price": "₩ 61,600"
+    },
+    {
+        "id": 21,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aiLRR_1651137245666/coverImage.png?_=1651916147188",
+        "liked": "83%",
+        "keyword": "자세한 내용",
+        "providers": "goormedu",
+        "lectureName": "처음 만난 리액트(React) v2",
+        "lectureInstructor": "소플",
+        "price": "무료"
+    },
+    {
+        "id": 22,
+        "image": "https://cdn.inflearn.com/wp-content/uploads/es6_8.jpg",
+        "liked": "83%",
+        "keyword": "소통을 잘하는 강사님",
+        "providers": "inflearn",
+        "lectureName": "함수형 프로그래밍과 JavaScript ES6+",
+        "lectureInstructor": "유인동",
+        "price": "₩ 44,000"
+    },
+    {
+        "id": 23,
+        "image": "https://img-c.udemycdn.com/course/480x270/4482286_943e_3.jpg",
+        "liked": "80%",
+        "keyword": "실습 위주",
+        "providers": "udemy",
+        "lectureName": "【한글자막】 JavaScript 완벽 가이드 : 초급 + 고급 마스터 과정",
+        "lectureInstructor": "Academind by Maximilian Schwarzmüller",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 24,
+        "image": "https://cdn.inflearn.com/public/courses/325969/cover/2868c757-5886-4508-a140-7cb68a83dfd8/325969-eng.png",
+        "liked": "87%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "inflearn",
+        "lectureName": "스프링 핵심 원리 - 기본편",
+        "lectureInstructor": "김영한",
+        "price": "₩ 70,400"
+    },
+    {
+        "id": 25,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Dbetm_1610594068071/coverImage.png?_=1611728738900",
+        "liked": "83%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "goormedu",
+        "lectureName": "작정하고 django! 핀터레스트 만들기",
+        "lectureInstructor": "박형석",
+        "price": "₩ 77,000"
+    },
+    {
+        "id": 26,
+        "image": "https://cdn.inflearn.com/public/courses/327081/cover/b9374237-aa4e-468f-9557-d853f59a5733/327081-eng.jpg",
+        "liked": "83%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "inflearn",
+        "lectureName": "[리뉴얼] 타입스크립트 올인원 : Part2. 실전 분석편",
+        "lectureInstructor": "조현영",
+        "price": "₩ 40,700"
+    },
+    {
+        "id": 27,
+        "image": "https://img-c.udemycdn.com/course/480x270/4699864_c9d5.jpg",
+        "liked": "80%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "udemy",
+        "lectureName": "【한글자막】 Next.js & React - 완벽 정복 가이드 (incl. Two Paths!)",
+        "lectureInstructor": "Maximilian Schwarzmüller",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 28,
+        "image": "https://cdn.inflearn.com/public/courses/324215/course_cover/0bc4b03b-fea1-4be9-956c-4b6ec7293762/blockchain_thumanil_sian_1.png",
+        "liked": "87%",
+        "keyword": "쉬운 이해",
+        "providers": "inflearn",
+        "lectureName": "Klaytn 클레이튼 블록체인 어플리케이션 만들기 - NFT",
+        "lectureInstructor": "SEJONG IT EDU",
+        "price": "₩ 63,360"
+    },
+    {
+        "id": 29,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bHWPg_1647788369016/coverImage.png?_=1648709804539",
+        "liked": "83%",
+        "keyword": "쉬운 이해",
+        "providers": "goormedu",
+        "lectureName": "이론부터 쉽게 배우는 IoT",
+        "lectureInstructor": "MN만능아카데미",
+        "price": "무료"
+    },
+    {
+        "id": 30,
+        "image": "https://cdn.inflearn.com/wp-content/uploads/blockchain_leejj1.png",
+        "liked": "83%",
+        "keyword": "가성비",
+        "providers": "inflearn",
+        "lectureName": "블록체인 기반의 스마트컨트랙트 개발",
+        "lectureInstructor": "Jeongjoo Lee",
+        "price": "₩ 79,200"
+    },
+    {
+        "id": 31,
+        "image": "https://img-b.udemycdn.com/course/480x270/4370388_dc8a.jpg",
+        "liked": "80%",
+        "keyword": "가성비",
+        "providers": "udemy",
+        "lectureName": "【한글자막】 Blockchain A-Z™: 블록체인 만들기 완벽 강의",
+        "lectureInstructor": "Hadelin de Ponteves",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 32,
+        "image": "https://cdn.inflearn.com/public/courses/329035/cover/f22129b6-522e-4ae2-86e6-111acd75acf0/329035-eng.png",
+        "liked": "87%",
+        "keyword": "쉬운 이해",
+        "providers": "inflearn",
+        "lectureName": "시스코 네트워킹 아카데미: 사물인터넷 기초",
+        "lectureInstructor": "애스코(ASCKOR)",
+        "price": "₩ 26,400"
+    },
+    {
+        "id": 33,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fasfg_1551332585026/coverImage.png?_=1551332585474",
+        "liked": "83%",
+        "keyword": "쉬운 이해",
+        "providers": "goormedu",
+        "lectureName": "자바로 이해하는 블록체인 이론과 실습",
+        "lectureInstructor": "나동빈",
+        "price": "무료"
+    },
+    {
+        "id": 34,
+        "image": "https://cdn.inflearn.com/public/course-324572-cover/96e44107-6470-4dc3-9c46-5ab98b0ed77c",
+        "liked": "83%",
+        "keyword": "가성비",
+        "providers": "inflearn",
+        "lectureName": "[NEW]사물인터넷 통신은 내 손에(Arduino, MQTT, Nodejs, MongoDB, Android,VS Code)",
+        "lectureInstructor": "박매일",
+        "price": "₩ 28,160"
+    },
+    {
+        "id": 35,
+        "image": "https://img-c.udemycdn.com/course/480x270/2374472_252d_2.jpg",
+        "liked": "80%",
+        "keyword": "가성비",
+        "providers": "udemy",
+        "lectureName": "파이썬으로 만드는 라즈베리 파이 사물인터넷(IoT) 프로젝트 - 원격무인 자동차",
+        "lectureInstructor": "Jonathan Su",
+        "price": "₩ 12,000"
+    },
+    {
+        "id": 36,
+        "image": "https://cdn.inflearn.com/public/courses/325969/cover/2868c757-5886-4508-a140-7cb68a83dfd8/325969-eng.png",
+        "liked": "87%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "inflearn",
+        "lectureName": "스프링 핵심 원리 - 기본편",
+        "lectureInstructor": "김영한",
+        "price": "₩ 70,400"
+    },
+    {
+        "id": 37,
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Dbetm_1610594068071/coverImage.png?_=1611728738900",
+        "liked": "83%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "goormedu",
+        "lectureName": "작정하고 django! 핀터레스트 만들기",
+        "lectureInstructor": "박형석",
+        "price": "₩ 77,000"
+    },
+    {
+        "id": 38,
+        "image": "https://cdn.inflearn.com/public/courses/327081/cover/b9374237-aa4e-468f-9557-d853f59a5733/327081-eng.jpg",
+        "liked": "83%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "inflearn",
+        "lectureName": "[리뉴얼] 타입스크립트 올인원 : Part2. 실전 분석편",
+        "lectureInstructor": "조현영",
+        "price": "₩ 40,700"
+    },
+    {
+        "id": 39,
+        "image": "https://img-c.udemycdn.com/course/480x270/4699864_c9d5.jpg",
+        "liked": "80%",
+        "keyword": "이해하기 쉬워요",
+        "providers": "udemy",
+        "lectureName": "【한글자막】 Next.js & React - 완벽 정복 가이드 (incl. Two Paths!)",
+        "lectureInstructor": "Maximilian Schwarzmüller",
+        "price": "₩ 12,000"
+    }
+]

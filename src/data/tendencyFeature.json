@@ -1,0 +1,65 @@
+[
+    {
+        "text": "프로젝트 중심 실습",
+        "tendency" : {
+            "tendencyName":"project",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "예제와 풀이 실습",
+        "tendency" : {
+            "tendencyName":"example",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "소통을 잘하는 강사님",
+        "tendency" : {
+            "tendencyName":"communication",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "이론 위주",
+        "tendency" : {
+            "tendencyName":"theory",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "가성비",
+        "tendency" : {
+            "tendencyName":"cost",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "자세한 내용",
+        "tendency" : {
+            "tendencyName":"detail",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "간결한 내용",
+        "tendency" : {
+            "tendencyName":"simple",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "쉬운 이해",
+        "tendency" : {
+            "tendencyName":"easy",
+            "tendencyType": "feature"
+        }
+    },
+    {
+        "text": "최신 강의",
+        "tendency" : {
+            "tendencyName":"recent",
+            "tendencyType": "feature"
+        }
+    }
+]

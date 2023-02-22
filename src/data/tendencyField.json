@@ -1,0 +1,93 @@
+[
+    {        
+        "text": "서버/백엔드",
+        "tendency" : {
+            "tendencyName":"backend",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "프론트엔드",
+        "tendency" : {
+            "tendencyName":"frontend",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "안드로이드 앱",
+        "tendency" : {
+            "tendencyName":"android",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "아이폰 앱",
+        "tendency" : {
+            "tendencyName":"ios",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "데이터 엔지니어",
+        "tendency" : {
+            "tendencyName":"data",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "모바일 게임",
+        "tendency" : {
+            "tendencyName":"mobile_game",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "게임 클라이언트",
+        "tendency" : {
+            "tendencyName":"game_client",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "임베디드",
+        "tendency" : {
+            "tendencyName":"embedded",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "사물인터넷/IoT",
+        "tendency" : {
+            "tendencyName":"iot",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "블록체인",
+        "tendency" : {
+            "tendencyName":"block_chain",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "시스템/네트워크",
+        "tendency" : {
+            "tendencyName":"system",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "인터넷 보안",
+        "tendency" : {
+            "tendencyName":"internet",
+            "tendencyType": "field"
+        }
+    },
+    {
+        "text": "인공지능/AI",
+        "tendency" : {
+            "tendencyName":"ai",
+            "tendencyType": "field"
+        }
+    }
+]

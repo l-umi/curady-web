@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "파이썬 코딩 무료 강의 (기본편)",
+        "imagePath": "https://i.ytimg.com/vi/kWiCuklohdY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSzkhzgjYnt4DpcxHMmMKwCKHXgA",
+        "instructorName": "나도코딩",
+        "number" : 1,
+        "time" : 361,
+        "views": 48,
+        "likes": 10,
+        "keywords":["조회수 410만", "강의노트 제공"],
+        "url":"https://www.youtube.com/watch?v=kWiCuklohdY"
+    },
+    {
+        "id": 2,
+        "name": "관계형 데이터 모델링",
+        "imagePath": "https://i.ytimg.com/vi/1d38YZKCM88/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRQ0mvCamu3eozI2pS6QQrcUK2HA",
+        "instructorName": "생활코딩",
+        "number" : 32,
+        "time" : 164,
+        "views": 10,
+        "likes": 2,
+        "keywords":["데이터베이스", "초급"],
+        "url":"https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa"
+    },
+    { 
+        "id": 3,
+        "name": "자바스크립트 : 기초부터 중급, 활용까지",
+        "imagePath": "https://i.ytimg.com/vi/P0FY8k916e0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrRhXgHawF5ZEvykySCfuVHLzjyQ",
+        "instructorName": "코딩앙마",
+        "number" : 8,
+        "time" : 292,
+        "views": 0,
+        "likes": 0,
+        "keywords":["2021년", "웹 개발"],
+        "url":"https://www.youtube.com/playlist?list=PLRx0vPvlEmdADpce8aoBhNnDaaHQN1Typ"
+    },
+    {
+        "id": 4,
+        "name": "스프링부트 개념정리 with JPA",
+        "imagePath": "https://i.ytimg.com/vi/XBG6CUtVCIg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBh-DrO9fI-T5CCp5S7ppJKw6X5hg",
+        "instructorName": "메타코딩",
+        "number" : 14,
+        "time" : 240,
+        "views": 0,
+        "likes": 0,
+        "keywords":["Java", "프레임워크"],
+        "url":"https://www.youtube.com/playlist?list=PL93mKxaRDidG_OIfRQ4nztPQ13y74lCYg"
+    },
+    {
+        "id": 5,
+        "name": "2022 new 리액트 강의",
+        "imagePath": "https://i.ytimg.com/vi/00yJy7W0DQE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_42YKjGNS6b-cDXeor11dEz-hTg",
+        "instructorName": "코딩애플",
+        "number" : 6,
+        "time" : 75,
+        "views": 0,
+        "likes": 0,
+        "keywords":["프론트엔드", "React.js"],
+        "url":"https://www.youtube.com/playlist?list=PLfLgtT94nNq0qTRunX9OEmUzQv4lI4pnP"
+    },
+    {
+        "id": 6,
+        "name": "꼼꼼한 딥러닝 논문 리뷰와 코드 실습",
+        "imagePath": "https://i.ytimg.com/vi/hCWUTvVrG7E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWmLwfTf49H5eypEvOlZeHVU7FWw",
+        "instructorName": "동빈나",
+        "number" : 43,
+        "time" : 2010,
+        "views": 0,
+        "likes": 0,
+        "keywords":["딥러닝", "논문"],
+        "url":"https://www.youtube.com/playlist?list=PLRx0vPvlEmdADpce8aoBhNnDaaHQN1Typ"
+    }
+
+    
+]

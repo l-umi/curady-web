@@ -1,0 +1,93 @@
+[
+    {
+        "text": "C",
+        "tendency":{
+            "tendencyName":"c",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "C++",
+        "tendency":{
+            "tendencyName" : "cpp",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "C#",
+        "tendency":{
+            "tendencyName":"c#",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Go",
+        "tendency":{
+            "tendencyName":"go",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Java",
+        "tendency":{
+            "tendencyName":"java",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "JavaScript",
+        "tendency":{
+            "tendencyName":"javascript",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Kotlin",
+        "tendency":{
+            "tendencyName":"kotlin",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Python",
+        "tendency":{
+            "tendencyName":"python",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Ruby",
+        "tendency":{
+            "tendencyName":"ruby",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Scala",
+        "tendency":{
+            "tendencyName":"scala",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Swift",
+        "tendency":{
+            "tendencyName":"swift",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "MySQL",
+        "tendency":{
+            "tendencyName":"mysql",
+            "tendencyType": "language"
+        }
+    },
+    {
+        "text": "Oracle",
+        "tendency":{
+            "tendencyName":"oracle",
+            "tendencyType": "language"
+        }
+    }
+]

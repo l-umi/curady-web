@@ -1,0 +1,698 @@
+[
+    {
+        "id": 1,
+        "name": "파이썬 코딩 무료 강의 (기본편)",
+        "number": 1,
+        "lectures": [
+            {
+                "id":1,
+                "name":"1. 수업소개",
+                "videoUrl":"kWiCuklohdY",
+                "text":""
+            }
+            ], 
+        "description": "파이썬 무료 강의 (기본편)입니다.\n누구나 볼 수 있도록 쉽고 재미있게 제작하였습니다. ^^\n\n파이썬은 다양한 활용 분야가 있는 인기 최고의 프로그래밍 언어입니다.\n수많은 컴퓨터 교육 기관에서 가르치고 있으며 학생들도 배우고 있지요.\n여러분의 가치를 훨씬 높일 수 있는 필살기,\n지금 바로 시작하세요 !\n\n\n[블로그]\n영상보다 글이 편하신 분들을 위해 파이썬 기본편 강의를 책 형태로 블로그에 옮겼습니다. 아래 링크에서 확인해주세요 ^^\nhttps:/adocoding.tistory.com/catego...\n\n[ 오류정정 ] 2020.03.28 최종수정\n9-7. 클래스 '연산자 오버로딩' 제목 및 설명이 잘못되어 정정합니다.\n해당 영상에 나오는 설명 중 '연산자 오버로딩'은 잘못된 워딩이며 '메소드 오버라이딩'이 올바른 표현입니다.\n\n9-9. 클래스 super (4:23:10) 내용 설명이 잘못되어 정정합니다.\nclass FlyableUnit(Flyable, Unit):def __init__(self):\nsuper().__init__()\n위처럼 다중 상속 코드를 작성했을 때, super() 를 쓰면 순서상 맨 '마지막' 이 아닌, 맨 '처음' 클래스(예제에서는 Flyable) 에 대해서 _init_ 함수가 호출 됩니다.\n\n9-11. 스타크래프트 프로젝트 후반전 (4:40:32) 내용 설명이 잘못되어 정정합니다.\n5이상 20이하의 값을 얻기 위해서 randint(5, 20) 이나 randrange(5, 21) 로 작성해야 합니다.\n\n혼란을 드려 대단히 죄송합니다.\n\n\n[ 활용편 커리큘럼 ]\n기본편을 공부하신 분들을 위한 실전 활용편 강의입니다.\n활용편은 서로 연관성이 없으므로 원하시는 주제를 선택하셔서 들으시면 됩니다.\n\n1. 게임 개발 [완료]\n- 오락실에서 하던 Pang 게임\n- 바로가기 : https://youtu.be/Dkx8Pl6QKW02. GUI 프로그래밍 [완료]\n- 영상에서 캡처한 이미지들을 하나로 합치는 프로그램\n- 바로가기 : https://youtu.be/bKPIcoou9N83. 웹스크래핑 [완료]\n- 내가 원하는 뉴스를 매일 자동으로 긁어오는 프로그램- 바로가기 : https://youtu.be/yQ20jZwDjTE4. 업무자동화 [완료]\n- 엑셀, 인터넷, 데스크탑 등 컴퓨터에게 일을 시키는 스크립트- 바로가기 : https://youtu.be/exgO1LFl9x85. 데이터 분석 및 시각화 [완료]\n- 빅데이터를 활용한 대한민국의 인구 문제 분석\n- 바로가기 : https://youtu.be/PjhlUzp_cU06. 이미지 처리 [완료]\n- 이미지 / 영상에서 얼굴을 인식하여 얼굴 위에 재밌는 캐릭터 씌우기- 바로가기 : https://youtu.be/XK3eU9egll87. 머신러닝 [완료]\n- 머신러닝을 이용하여 나만의 영화 추천 시스템 만들기- 바로가기 : https://youtu.be/TNcfJHajqJY8. 사물인터넷\n- 아두이노를 활용한 RC Car 제작\n\n\n[목차]\n(0:00) 0.Intro\n(0:38) 1-1.소개\n(02:22) 1-2.환경설정\n(07:26) 2-1.숫자 자료형\n(11:42) 2-2.문자열 자료형\n(13:08) 2-3.boolean 자료형\n(15:05) 2-4.변수\n(22:08) 2-5.주석\n(23:57) 2-6.퀴즈 #1\n(25:48) 3-1.연산자\n(33:23) 3-2.간단한수식\n(36:26) 3-3.숫자처리함수\n(38:59) 3-4.랜덤함수\n(44:11) 3-5.퀴즈 #2\n(46:57) 4-1.문자열\n(48:24) 4-2.슬라이싱\n(55:09) 4-3.문자열처리함수\n(1:00:56) 4-4.문자열포맷\n(1:09:17) 4-5.탈출문자\n(1:15:47) 4-6.퀴즈 #3\n(1:22:31) 5-1.리스트\n(1:31:35) 5-2.사전\n(1:40:46) 5-3.튜플\n(1:43:19) 5-4.세트\n(1:48:44) 5-5.자료구조의 변경\n(1:50:47) 5-6.퀴즈 #4\n(1:57:33) 6-1.if\n(2:05:08) 6-2.for\n(2:09:33) 6-3.while\n(2:14:59) 6-4.continue 와 break(2:19:11) 6-5.한 줄 for\n(2:22:51) 6-6.퀴즈 #5\n(2:28:36) 7-1.함수\n(2:30:09) 7-2.전달값과 반환값\n(2:37:50) 7-3.기본값\n(2:41:32) 7-4.키워드값\n(2:43:07) 7-5.가변인자\n(2:47:55) 7-6.지역변수와 전역변수\n(2:53:58) 7-7.퀴즈 #6\n(2:58:59) 8-1.표준입출력\n(3:10:12) 8-2.다양한 출력포맷\n(3:17:45) 8-3.파일입출력\n(3:26:27) 8-4.pickle\n(3:30:22) 8-5.with\n(3:33:33) 8-6.퀴즈 #7\n(3:38:08) 9-1.클래스\n(3:47:04) 9-2._init_\n(3:48:34) 9-3.멤버변수\n(3:53:07) 9-4.메소드\n(3:59:29) 9-5.상속\n(4:02:54) 9-6.다중상속\n(4:10:08) 9-7.메소드 오버라이딩\n(4:17:03) 9-8.pass\n(4:19:31) 9-9.super\n(4:23:50) 9-10.스타크래프트 프로젝트 전반전(4:33:47) 9-11.스타크래프트 프로젝트 후반전(4:44:42) 9-12.퀴즈 #8\n(4:50:13) 10-1.예외처리\n(4:58:15) 10-2.에러 발생시키기\n(5:01:06) 10-3.사용자 정의 예외처리\n(5:04:28) 10-4.finally\n(5:06:19) 10-5.퀴즈 #9\n(5:14:23) 11-1.모듈\n(5:24:10) 11-2.패키지\n(5:30:30) 11-3._all_\n(5:34:16) 11-4.모듈 직접 실행\n(5:37:00) 11-5.패키지, 모듈 위치\n(5:40:33) 11-6.pip install\n(5:46:04) 11-7.내장함수\n(5:50:38) 11-8.외장함수\n(5:58:49) 11-9.퀴즈 #10\n(6:01:08) 12.Outro\n\n\n\n[ 나도코딩의 정규 강의 ]\nC 프로그래밍 : https://youtu.be/dEykoFZkf5Y스크래치 3.0 : https://youtu.be/xN8O_mhR-7Y\n\n\n\n[ 나도코딩의 단편 강의 ]\n업무 생산성 200% 높이기 Notepad++ : https://youtu.be/r1lpBGlIzY0\n개발시간을 줄여주는 단축키 10 Visual Studio : https://youtu.be/LmCFaOB4YPI\n\n\n[ 연락 ]\nnadocoding@gmail.com\n",
+        "Reviews":0,
+        "likes": 0,
+        "url":"https://youtu.be/kWiCuklohdY"
+    },
+    {
+        "id": 2,
+        "name": "관계형 데이터 모델링",
+        "number": 32,
+        "lectures": [
+            {
+                "id":1,
+                "name":"1. 수업소개",
+                "videoUrl":"1d38YZKCM88",
+                "text":"지금부터 관계형 데이터베이스를 위한 데이터 모델링 수업을 시작하겠습니다.\n​\n이 수업은 MySQL, Oracle, MS SQL과 같은 관계형 데이터베이스의 기본 사용법을 알고 계신 분들을 대상으로 만들어진 수업입니다. 아직 관계형 데이터베이스에 대해서 모르신다면 이 수업에 참여할 수 없습니다. 최소한 표를 만들고, JOIN하는 정도의 경험을 한 후에 이 수업에 참여하셔야 수업이 덜 추상적으로 느껴질 것입니다. 특히 기본 사용법은 알겠는데 현실의 표에 담으려고 하니 막막한 생각이 드신다면 번지수를 잘 찾아오신 것입니다.\n​\n모델이란 무엇일까요? 학술적인 정의는 저도 모르겠습니다만, 제 나름대로 감히 이 추상적인 말을 이렇게 정의 해봤습니다.\n​\n어떤 목적으로 가지고\n진짜를\n모방한 것\n이 아닐까요?\n​\n그렇기 때문에\n좋은 모델이란\n목적에 부합하는\n모방이라고 할 수 있겠죠?\n​\n우리의 목적은\n컴퓨터,\n좀 더 정확하게는 데이터베이스.\n좀 더 정확하게는 관계형 데이터베이스,\n좀 더 구체적으로는 표에 ​\n정보를 담는 것입니다.\n​\n일단 정보를 데이터베이스에 담는 것에 성공만하면\n인간의 능력으로는 상상도 할 수 없는\n거대한 양의 데이터를\n엄청난 속도로 다룰 수 있게 됩니다.\n​\n문제는 현실을 정보로 만들어서 표에 담는 것이\n매우 매우 어려운 일이라는 점입니다.\n​\n천재라도 어렵고,\n인생을 갈아 넣은 사람에게도 어려운 일입니다.\n그래서 과거에는 이런 작업이 소수의 사람들만의 전유물이었습니다.\n​\n이를 안타깝게\n여긴 일군의 전문가들이\n천재가 아는 사람들도\n현실을 컴퓨터에 담을 수 있는\n기가 막힌 방법론을 만들었습니다.\n그것이 바로 데이터 모델링입니다.\n​\n지금부터 우리는\n복잡한 현실을 컴퓨터로 이사시키는 이사짐 센터가 될 것입니다. ​​\n아무리 복잡한 정보도\n위대한 표에 담을 수 있다는 자신감을 갖게 될 것입니다.\n​\n자 준비 됐나요?\n출발합시다."
+            },
+            {
+                "id":2,
+                "name":"2. 전체 흐름",
+                "videoUrl":"zZmRQHgLhMo",
+                "text":""
+            },
+            {
+                "id":3,
+                "name":"3.1. 업무파악 : 인트로",
+                "videoUrl":"EuJVVOXrOSI",
+                "text":""
+            },    
+            {
+                "id":4,
+                "name":"3.2. 기획",
+                "videoUrl":"rWEaUh4DjUo",
+                "text":""
+            },    
+            {
+                "id":5,
+                "name":"4.1. 개념적 데이터 모델링 소개",
+                "videoUrl":"moAXl6fvDO0",
+                "text":""
+            },    
+            {
+                "id":6,
+                "name":"4.2. 관계형 데이터베이스 다운 개념의 구조",
+                "videoUrl":"hbZ96tnbN4M",
+                "text":""
+            },    
+            {
+                "id":7,
+                "name":"4.3. ERD의 구성요소",
+                "videoUrl":"E6LbuLoU6rc",
+                "text":""
+            },    
+            {
+                "id":8,
+                "name":"4.4. 엔티티 정의",
+                "videoUrl":"5rOOOqBpcYs",
+                "text":""
+            },    
+            {
+                "id":9,
+                "name":"4.5. 속성 정의",
+                "videoUrl":"87bF4yyfVuY",
+                "text":""
+            },    
+            {
+                "id":10,
+                "name":"4.6. 식별자 지정",
+                "videoUrl":"4i3OUdHqMWc",
+                "text":""
+            },    
+            {
+                "id":11,
+                "name":"4.7. 엔티티간의 연결",
+                "videoUrl":"wd-hcHHnNBY",
+                "text":""
+            },    
+            {
+                "id":12,
+                "name":"4.8. Cardinality",
+                "videoUrl":"RHrp8xsgVr8",
+                "text":""
+            },    
+            {
+                "id":13,
+                "name":"4.9. Optionality",
+                "videoUrl":"N9NeNEhwGBY",
+                "text":""
+            },    
+            {
+                "id":14,
+                "name":"4.10. ERD 완성",
+                "videoUrl":"J5b38kTWFNU",
+                "text":""
+            },    
+            {
+                "id":15,
+                "name":"4.11. Entity Relationship Diagram Helper",
+                "videoUrl":"ozQ2o8oJigc",
+                "text":""
+            },    
+            {
+                "id":16,
+                "name":"5.1. 논리적 데이터 모델링",
+                "videoUrl":"WIckks0nJbQ",
+                "text":""
+            },    
+            {
+                "id":17,
+                "name":"5.2. 테이블과 컬럼 생성",
+                "videoUrl":"c7o4ygOnP1M",
+                "text":""
+            },    
+            {
+                "id":18,
+                "name":"5.3. 1:1 관계의 처리",
+                "videoUrl":"y6Rpp9yEMQI",
+                "text":""
+            },    
+            {
+                "id":19,
+                "name":"5.4. 1:N 관계의 처리",
+                "videoUrl":"X0pby7zzfVE",
+                "text":""
+            },    
+            {
+                "id":20,
+                "name":"5.5.1. N:M 관계의 처리",
+                "videoUrl":"PN121bbdgSM",
+                "text":""
+            },    
+            {
+                "id":21,
+                "name":"5.5.2. N:M 관계의 처리 - 내용 정정",
+                "videoUrl":"wZnlUeJgDF0",
+                "text":""
+            },    
+            {
+                "id":22,
+                "name":"6.1. 정규화 소개",
+                "videoUrl":"iu8W0zCiGb8",
+                "text":""
+            },    
+            {
+                "id":23,
+                "name":"6.2. 제1 정규화",
+                "videoUrl":"FYDHJbIwm5Y",
+                "text":""
+            },    
+            {
+                "id":24,
+                "name":"6.3. 제2 정규화",
+                "videoUrl":"7meeyknh7yE",
+                "text":""
+            },    
+            {
+                "id":25,
+                "name":"6.4. 제3 정규화",
+                "videoUrl":"aS9FoCNlt3o",
+                "text":""
+            },    
+            {
+                "id":26,
+                "name":"7.1. 물리적 데이터 모델링",
+                "videoUrl":"vJNEVsnY8K4",
+                "text":""
+            },    
+            {
+                "id":27,
+                "name":"7.2. 역정규화 소개",
+                "videoUrl":"qx0m1YXGel4",
+                "text":""
+            },    
+            {
+                "id":28,
+                "name":"7.3. 역정규화 : 컬럼을 조작해서 join을 줄이기",
+                "videoUrl":"f_KCIBfEhNY",
+                "text":""
+            },    
+            {
+                "id":29,
+                "name":"7.4. 역정규화 : 컬럼을 조작해서 계산을 줄이기",
+                "videoUrl":"67tWzoFr4BY",
+                "text":""
+            },    
+            {
+                "id":30,
+                "name":"7.5. 역정규화 : 표를 쪼개기",
+                "videoUrl":"oIYoS--DtbI",
+                "text":""
+            },    
+            {
+                "id":31,
+                "name":"7.6. 역정규화 : 관계의 역정규화",
+                "videoUrl":"o3K572MC8Q0",
+                "text":""
+            },    
+            {
+                "id":32,
+                "name":"8. 수업을 마치며",
+                "videoUrl":"qJtOBj7wp7Y",
+                "text":""
+            }
+        ], 
+        "description": "생활코딩은 일반인에게 프로그래밍을 알려주는 활동입니다. 더 많은 정보를 원하시면 http://opentutorials.org/course/1 를 방문해주세요.\n모든 수업과 예제는 아래 주소에 정리 되어 있습니다.\nhttps://opentutorials.org/module/4134",
+        "Reviews":0,
+        "views": 0,
+        "url":"https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa"
+   
+    },
+    {
+        "id": 3,
+        "name": "자바스크립트 : 기초부터 중급, 활용까지",
+        "number": 8,
+        "lectures": [
+            {
+                "id":1,
+                "name":"1. 자바스크립트 기초 강좌 : 100분 완성",
+                "videoUrl":"KF6t61yuPCY",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n자바스크립트 기초 강좌를 하나의 영상으로 만들었습니다. 프로그래밍 경력이 없어도 됩니다. 완전 초보라도 괜찮아요. 딱 100분만 투자하고 자바스크립트가 어떤건지 감을 잡아 봅시다!\n\n이 수업은 기초 자바스크립트 수업으로, 완전 초보자를 대상으로 진행합니다.\n\n00:00 Intro\n01:30 변수\n05:57 자료형\n11:32 alert, prompt, confirm\n17:45 형변환\n25:10 기본 연산자\n28:14 비교 연산자, 조건문 (if, else)\n35:26 논리 연산자 (AND, OR, NOT)\n44:39 반복문(for, while, do while)51:40 switch문\n56:35 함수(function)의 기초\n1:12:16 함수 표현식, 화살표 함수(arrow function)1:17:32 객체(Object)\n1:28:00 객체(Object) - method, this1:34:24 배열(Array)\n1:40:24 마치며\n\n#자바스크립트 #javascript #기초 #초보 #강의 #1KCreator\n\n---------------------------------------\n\n24:55\n오류가 있어 바로 잡습니다.\n\nNumber(0) // false\nNumber('0') // true\nNumber('') // false\nNumber(' ') // true\n\n가 아니라\n\nBoolean(0) // false\nBoolean('0') // true\nBoolean('') // false\nBoolean(' ') // true\n\n이 맞습니다.\n\n크롬에서 Codepen 이나 JSFiddle 같은 웹에디터를 사용했을때 alert/prompt/confirm 같은 기능이 제대로 동작하지 않습니다.\n\n2021.07 참고: https://chromestatus.com/feature/5148698084376576\n\n파이어폭스등 다른 브라우저를 사용하시거나, 크롬 개발자 도구의 console 탭에 직접 작성하시길 추천 드립니다."
+            },
+
+            {
+                "id":2,
+                "name":"2. 자바스크립트 중급 강좌 : 140분 완성",
+                "videoUrl":"4_WLS9Lj6n4",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n자바스크립트 중급 강좌도 하나의 영상으로 만들어 달라는 요청이 있어서 제작하게 되었습니다.\n\n이 수업은 중급 자바스크립트 수업으로, 자바스크립트 기초 지식이 있으신 분들 대상으로 진행합니다.\n\n00:00 Intro\n00:09 변수\n05:04 생성자 함수\n10:40 객체 메소드(Object methods), 계산된 프로퍼티(Computed property)19:18 심볼(Symbol)\n25:30 숫자, 수학 method (Number, Math)31:41 문자열 메소드(String methods)\n40:02 배열 메소드1(Array methods)\n52:38 배열 메소드2 (sort, reduce)\n1:03:19 구조 분해 할당 (Destructuring assignment)1:07:48 나머지 매개변수, 전개 구문(Rest parameters, Spread syntax)1:18:18 클로저(Closure) 5분만에 이해하기1:23:33 setTimeout / setInterval1:26:42 call, apply, bind\n1:33:41 상속, 프로토타입(Prototype)\n1:42:59 클래스(Class)\n1:53:08 프로미스(Promise)\n2:05:35 async, await\n2:10:47 Generator\n\n#자바스크립트 #javascript #중급 #강좌\n\n---------------------------------------\n\n크롬에서 Codepen 이나 JSFiddle 같은 웹에디터를 사용했을때 alert/prompt/confirm 같은 기능이 제대로 동작하지 않습니다.\n\n2021.07 참고: https://chromestatus.com/feature/5148698084376576\n\n파이어폭스등 다른 브라우저를 사용하시거나, 크롬 개발자 도구의 console 탭에 직접 작성하시길 추천 드립니다."
+            },
+            {
+                "id":3,
+                "name":"3.1. 자바스크립트 DOM & EVENT #1 노드에 접근하기",
+                "videoUrl":"uK6uExrg7Ww",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 DOM 이 무엇인지 알아보고, 자바스크립트를 이용해 노드에 접근 해보는 방법을 알아보겠습니다.\n\n#자바스크립트 #javascript #DOM #EVENT\n\n----------------------------------------\n\n이 수업은 DOM 과 EVENT 에 대해 알아보고, 자바스크립트를 활용해 제어 해보는 영상입니다."
+            },
+            {
+                "id":4,
+                "name":"3.2. 자바스크립트 DOM & EVENT #2 부모, 자식, 형제 노드",
+                "videoUrl":"XGKdimCHzw8",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 부모, 자식, 형제 노드에 접근해 보겠습니다. 노드의 다양한 타입들도 알아 볼게요!\n\n#자바스크립트 #javascript #DOM #EVENT\n\n----------------------------------------\n\n이 수업은 DOM 과 EVENT 에 대해 알아보고, 자바스크립트를 활용해 제어 해보는 영상입니다."
+            },
+            {
+                "id":5,
+                "name":"3.3. 자바스크립트 DOM & EVENT #3 노드 생성, 추가, 복제, 삭제",
+                "videoUrl":"JNVKehkS0aI",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 노드를 생성, 추가, 복제, 삭제 해보겠습니다.\n\n#자바스크립트 #javascript #DOM #EVENT\n\n----------------------------------------\n\n이 수업은 DOM 과 EVENT 에 대해 알아보고, 자바스크립트를 활용해 제어 해보는 영상입니다."
+            },
+            {
+                "id":6,
+                "name":"3.4. 자바스크립트 DOM & EVENT #4 CSS style, class 제어",
+                "videoUrl":"PTXab15jA9g",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 style 과 class 를 제어해보겠습니다!\n\n#자바스크립트 #javascript #DOM #EVENT\n\n----------------------------------------\n\n이 수업은 DOM 과 EVENT 에 대해 알아보고, 자바스크립트를 활용해 제어 해보는 영상입니다."
+            },
+            {
+                "id":7,
+                "name":"3.5. 자바스크립트 DOM & EVENT #5 이벤트 핸들러(Event Handler)",
+                "videoUrl":"J5EJija5-Sw",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 이벤트 핸들러에 대해 알아 보겠습니다. 이벤트의 종류와, 함수(핸들러)를 실행 시키는 몇가지 방법에 대해 다룹니다.\n\n이벤트 타입 : https://www.w3schools.com/jsref/dom_obj_event.asp\n\n#자바스크립트 #javascript #DOM #EVENT\n\n----------------------------------------\n\n이 수업은 DOM 과 EVENT 에 대해 알아보고, 자바스크립트를 활용해 제어 해보는 영상입니다."
+            },
+            {
+                "id":8,
+                "name":"3.6. 자바스크립트 DOM & EVENT #6 이벤트 버블링, 이벤트 위임",
+                "videoUrl":"beLituqpwl8",
+                "text":"안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 이벤트 버블링과 이벤트 위임에 대해서 알아보겠습니다!\n\n#자바스크립트 #javascript #DOM #EVENT\n\n----------------------------------------\n\n이 수업은 DOM 과 EVENT 에 대해 알아보고, 자바스크립트를 활용해 제어 해보는 영상입니다."
+            }
+            ], 
+        "description": "",
+        "Reviews":0,
+        "likes": 0,
+        "url":"https://www.youtube.com/@codingangma/videos"
+    },
+        {
+            "id": 4,
+            "name": "스프링부트 개념정리 with JPA",
+            "number": 14,
+            "lectures": [
+                {
+                    "id":1,
+                    "name":"1. 스프링의 핵심은 무엇인가요?",
+                    "videoUrl":"XBG6CUtVCIg",
+                    "text":""
+                },
+                {
+                    "id":2,
+                    "name":"2. 필터란 무엇인가요?",
+                    "videoUrl":"mAFLNA9MYg8",
+                    "text":""
+                },
+                {
+                    "id":3,
+                    "name":"3. MessageConverter가 궁금해요!",
+                    "videoUrl":"-5r52dt2HcU",
+                    "text":""
+                },
+                {
+                    "id":4,
+                    "name":"4. JPA란 무엇인가요?",
+                    "videoUrl":"ajZIPOv31yE",
+                    "text":""
+                },
+                {
+                    "id":5,
+                    "name":"5. ORM이란 무엇인가요?",
+                    "videoUrl":"4CRpndN3tP0",
+                    "text":""
+                },
+                {
+                    "id":6,
+                    "name":"6. 영속성 컨텍스트란 무엇인가요?",
+                    "videoUrl":"tXyDmqoMmKE",
+                    "text":""
+                },
+                {
+                    "id":7,
+                    "name":"7. OOP 관점에서 모델링이란?",
+                    "videoUrl":"vRoZAMX95Mc",
+                    "text":""
+                },
+                {
+                    "id":8,
+                    "name":"8. HTTP가 무엇인지 궁금해요!",
+                    "videoUrl":"pifmwZWWbuY",
+                    "text":""
+                },
+                {
+                    "id":9,
+                    "name":"9. 톰켓이란?",
+                    "videoUrl":"fBcL6hPckyA",
+                    "text":""
+                },
+                {
+                    "id":10,
+                    "name":"10. 서블릿 객체의 생명주기를 알려줘요!",
+                    "videoUrl":"wc-K2QurjSk",
+                    "text":""
+                },
+                {
+                    "id":11,
+                    "name":"11. web.xml은 무엇인가요?",
+                    "videoUrl":"Q_c-1-cq6YA",
+                    "text":""
+                },
+                {
+                    "id":12,
+                    "name":"12. DispatcherServlet은 무엇인가요?",
+                    "videoUrl":"fZv9rkwSO3g",
+                    "text":""
+                },
+                {
+                    "id":13,
+                    "name":"13. ApplicationContext가 무엇인가요?",
+                    "videoUrl":"YRdS7qcZ8AY",
+                    "text":""
+                },
+                {
+                    "id":14,
+                    "name":"14. 응답(Response)하는 방법",
+                    "videoUrl":"GCx65TdiA44",
+                    "text":""
+                }
+                ], 
+            "description": "스프링 개념정리 14강을 완료하면 스프링부트 블로그 프로젝트 강의를 들으시면 됩니다.\nhttps://youtu.be/6bhF5o4gAOs",
+            "Reviews":0,
+            "likes": 0,
+            "url":"https://www.youtube.com/playlist?list=PLfLgtT94nNq0qTRunX9OEmUzQv4lI4pnP"
+        
+        }
+    ,
+        {
+        "id": 5,
+        "name": "2022 new 리액트 강의",
+        "number": 6,
+        "lectures": [
+            {
+                "id":1,
+                "name":"1. 리액트 소개, 설치법",
+                "videoUrl":"00yJy7W0DQE",
+                "text":"리액트 v18, 리액트라우터 v6, reduxjs/toolkit 이런거 씁니다\n\n설치관련 에러 모음\nhttps://codingapple.com/unit/react1-install-create-react-app-npx/?id=2305"
+            },
+
+            {
+                "id":2,
+                "name":"2. JSX 문법",
+                "videoUrl":"qocQ7ekeMI4",
+                "text":"강의 글은\nhttps://codingapple.com/unit/react2-jsx-classname-html/?id=2305"
+            },
+            {
+                "id":3,
+                "name":"3. state란?",
+                "videoUrl":"fE4t2Ovgp-0",
+                "text":"state 쓰는 이유 아는게 중요합니다\n그래야 혼자서 코드짤 때 잘 활용하겠죠\n\n강의 글은\nhttps://codingapple.com/unit/react-3-state-usestate-hook/?id=2305"
+            },
+            {
+                "id":4,
+                "name":"4. 버튼과 이벤트",
+                "videoUrl":"GOiCobCh2Ig",
+                "text":"강의 글은\nhttps://codingapple.com/unit/react4-setstate-usestate-onclick-eventhandler/?id=2305"
+            },
+            {
+                "id":5,
+                "name":"5. state변경하려면",
+                "videoUrl":"jAFogNao6CA",
+                "text":""
+            },
+            {
+                "id":6,
+                "name":"6. Component란?",
+                "videoUrl":"uab4P-0Gpzk",
+                "text":""
+            }
+            ], 
+        "description": "전체강의는\nhttps://codingapple.com/course/react-basic/",
+        "Reviews":0,
+        "likes": 0,
+        "url":"https://www.youtube.com/playlist?list=PLfLgtT94nNq0qTRunX9OEmUzQv4lI4pnP"
+    },
+    {
+        "id": 6,
+        "name": "꼼꼼한 딥러닝 논문 리뷰와 코드 실습",
+        "number": 43,
+        "lectures": [
+            {
+                "id":1,
+                "name":"1. DETR: End-to-End Object Detection with Transformers",
+                "videoUrl":"hCWUTvVrG7E",
+                "text":"본 논문은 Facebook Research 팀이 2020년 8월에 ECCV에서 발표한 이미지 내 객체 탐지(Object Detection) 방법에 관한 논문으로, 기존의 객체 탐지 기술과 비교했을 때 매우 간단한 아키텍처를 가지면서 높은 성능을 내는 방법을 제안하였습니다. 발표된 지 얼마 안 되었으나 많은 이목을 끌고 있어 리뷰해 보았습니다."
+            },
+            {
+                "id":2,
+                "name":"2. Shadow Attack - Semantic Adversarial Examples",
+                "videoUrl":"D1j3QiXPRag",
+                "text":"논문 제목: Breaking Certified Defenses Semantic Adversarial Examples with Spoofed Robustness Certificates (ICLR 2020)\n논문 설명: 본 논문은 딥러닝 분야 최우수 학회 중 하나인 ICLR 2020에 등재 된 논문으로, 뉴럴 네트워크를 공격하는 새로운 공격 유형인 Shadow Attack(그림자 공격)을 제안합니다. 특히 최근 뉴럴 네트워크 모델에 대한 주류 방어 연구 분야 중 하나인 Certified Defenses를 대상으로 공격을 수행한다는 점이 특징입니다."
+            },
+            {
+                "id":3,
+                "name":"3. Meta-Transfer Learning for Zero-Shot Super-Resolution",
+                "videoUrl":"PUtFz4vqXHQ",
+                "text":"논문 제목: Meta-Transfer Learning for Zero-Shot Super-Resolution (CVPR 2020)\n논문 설명: 본 논문은 서울대학교 팀이 2020년 CVPR에서 발표한 해상도 복원(Super Resolution) 방법에 관한 논문입니다. 본래 Zero-shot Super Resolution (ZSSR)은 한 장의 테스트 이미지에서 시작하여, 이미지에 내재된 정보를 학습하여 '테스트 이미지 한 장만으로' 해상도를 높이는 방법을 의미합니다. 이 논문에서는 기본적인 Zero-shot Super Resolution (ZSSR)의 아이디어에 추가적으로 Transfer Learning과 Meta-learning을 활용해 (적은 이터레이션으로) 빠르고 우수한 해상도 복원 성능을 보이는 방법인 MZSR을 제안했습니다."
+            },
+            {
+                "id":4,
+                "name":"4. StarGAN",
+                "videoUrl":"-r9M4Cj9o_8",
+                "text":"논문 제목: StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (2018 CVPR)\n논문 설명: 본 논문은 딥러닝 분야 최우수 학회 중 하나인 CVPR 2018의 구두 발표 세션에서 발표된 논문으로, 단일 네트워크를 이용해 다중 도메인 상에서의 image-to-image translation을 가능하도록 해주는 StarGAN을 제안합니다."
+            },
+            {
+                "id":5,
+                "name":"5. ResNet: Deep Residual Learning for Image Recognition",
+                "videoUrl":"671BsKl8d0E",
+                "text":"오늘은 ResNet으로 알려진 논문에 대한 리뷰 영상을 준비했습니다. ResNet은 나온 지 5년이 되었으나 최근까지도 많은 논문에서 베이스라인 아키텍처로 비교되고 있을 정도의 좋은 논문입니다. 2020년 기준 인용 수는 약 60,000회입니다.\n\n논문 핵심 요약: 00:00:00\n논문 같이 읽기: 00:14:38\n코드 실습: 00:39:38\n\n본 논문은 CVPR 2016에서 최우수 논문상을 받았고, 2015년 메이저급 이미지 분류 대회들에서 1등 상을 싹쓸이한 논문이기도 합니다. 이 논문은 수학적인 개념은 많이 없고 이해하기가 쉽다는 장점이 있습니다. 잔여 학습(residual learning) 개념을 이용하여 모델의 최적화 난이도를 낮추어 아주 깊은 네트워크를 이용해도 학습이 잘 이루어질 수 있도록 합니다.\n\n오늘은 논문 요약, 논문 리딩 뿐만 아니라 총 4개의 코드 실습을 포함하고 있습니다. (바로 실행 가능한 Colab 코드를 제공합니다.)\n\n* ResNet을 이용해 MNIST 학습하기/평가하기: 5분 만에 99.5% test accuracy 만들어 보기\n* ResNet을 이용해 CIFAR-10 학습하기/평가하기 (95% 이상 test accuracy)\n* (ImageNet) Pretrained ResNet을 이용해 분류해보기"
+            },
+            {
+                "id":6,
+                "name":"6. Seq2Seq: Sequence to Sequence Learning with Neural Networks(딥러닝 기계 번역)",
+                "videoUrl":"4DzKM0vgG1Y",
+                "text":"오늘의 딥러닝 논문 리뷰는 자연어 처리 쪽에서 매우 유명한 논문인 Seq2Seq입니다. Seq2Seq는 2014년 인공지능 분야 최우수 학회 중 하나인 NIPS에서 소개되었습니다. Seq2Seq는 현대의 기계 번역(machine translation) 기술들이 딥러닝 기반으로 전환되도록 해준 돌파구와 역할을 해준 논문이며, 아직도 많은 논문에서 베이스라인으로 비교되고 있을 정도로 중요한 논문입니다. (2020년 기준 인용 수는 약 12,000회)\n\n논문 핵심 요약: 00:00:00\n논문 같이 읽기: 00:25:50\n코드 실습: 00:43:19"
+            },
+            {
+                "id":7,
+                "name":"7. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":8,
+                "name":"8. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":9,
+                "name":"9. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":10,
+                "name":"10. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":11,
+                "name":"11. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":12,
+                "name":"12. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":13,
+                "name":"13. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":14,
+                "name":"14. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":15,
+                "name":"15. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":16,
+                "name":"16. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":17,
+                "name":"17. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":18,
+                "name":"18. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":19,
+                "name":"19. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":20,
+                "name":"20. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":21,
+                "name":"21. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":22,
+                "name":"22. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":23,
+                "name":"23. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":24,
+                "name":"24.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":25,
+                "name":"25.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":26,
+                "name":"26.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":27,
+                "name":"27.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":28,
+                "name":"28.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":29,
+                "name":"29.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":30,
+                "name":"30.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":31,
+                "name":"31. ",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":32,
+                "name":"32.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":33,
+                "name":"33.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":34,
+                "name":"34.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":35,
+                "name":"35.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":36,
+                "name":"36.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":37,
+                "name":"37.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":38,
+                "name":"38.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":39,
+                "name":"39.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":40,
+                "name":"40.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":41,
+                "name":"41.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":42,
+                "name":"42.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            },
+            {
+                "id":43,
+                "name":"43.",
+                "videoUrl":"",
+                "text":"서비스 준비 중입니다"
+            }
+        ], 
+        "description": "본 시리즈의 동영상에서 사용된 강의 자료(PPT)와 코드는 다음의 깃허브 저장소에 업로드됩니다.\nhttps://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice",
+        "Reviews":0,
+        "views": 0,
+        "url":"https://www.youtube.com/playlist?list=PLRx0vPvlEmdADpce8aoBhNnDaaHQN1Typ"
+   
+    }
+]
